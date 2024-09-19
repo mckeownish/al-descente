@@ -1,4 +1,4 @@
-# Pasta-Descent 
+# al-descente
 
 ## Protein Structure Refinement with SAXS and Gradient Descent
 
@@ -27,7 +27,7 @@ see the `requirements.txt` for full list
 
 1. Clone this repository:
    ```
-   git clone https://github.com/mckeownish/pasta-descent.git
+   git clone https://github.com/mckeownish/al-descente.git
    cd pasta-descent
    ```
 
