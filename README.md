@@ -28,7 +28,7 @@ see the `requirements.txt` for full list
 1. Clone this repository:
    ```
    git clone https://github.com/mckeownish/al-descente.git
-   cd pasta-descent
+   cd al-descente
    ```
 
 2. Create a new conda environment with the required packages:
