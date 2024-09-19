@@ -21,19 +21,21 @@ This project implements a PyTorch-based model for refining protein structures us
 - Python 3.9+
 - PyTorch 2.4.1+
 
-see the `requirements.txt` 
+see the `requirements.txt` for full list
 
 ## Installation
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/molecular-structure-prediction.git
-   cd molecular-structure-prediction
+   git clone https://github.com/mckeownish/pasta-descent.git
+   cd pasta-descent
    ```
 
-2. Install the required packages:
+2. Create a new conda environment with the required packages:
    ```
-   pip install numpy matplotlib plotly biopython pytorch3d
+   conda create --name pasta_descent_env --file requirements.txt
+
+   conda activate pasta_descent_env
    ```
 
 
